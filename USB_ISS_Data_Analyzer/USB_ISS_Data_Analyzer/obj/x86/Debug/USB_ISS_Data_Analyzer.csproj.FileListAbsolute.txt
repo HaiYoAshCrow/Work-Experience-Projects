@@ -15,3 +15,5 @@ C:\Users\Samsung\Documents\Work Experience\Accelorometer\src\USB_ISS_Data_Analyz
 C:\Users\Samsung\Documents\Work Experience\Accelorometer\src\USB_ISS_Data_Analyzer\obj\x86\Debug\USB_ISS_Data_Analyzer.csproj.GenerateResource.Cache
 C:\Users\Samsung\Documents\Work Experience\Accelorometer\src\USB_ISS_Data_Analyzer\obj\x86\Debug\USB_ISS_Data_Analyzer.exe
 C:\Users\Samsung\Documents\Work Experience\Accelorometer\src\USB_ISS_Data_Analyzer\obj\x86\Debug\USB_ISS_Data_Analyzer.pdb
+C:\Users\Samsung\Source\Repos\Work Experience Projects\USB_ISS_Data_Analyzer\USB_ISS_Data_Analyzer\obj\x86\Debug\USB_ISS_Data_Analyzer.exe
+C:\Users\Samsung\Source\Repos\Work Experience Projects\USB_ISS_Data_Analyzer\USB_ISS_Data_Analyzer\obj\x86\Debug\USB_ISS_Data_Analyzer.pdb

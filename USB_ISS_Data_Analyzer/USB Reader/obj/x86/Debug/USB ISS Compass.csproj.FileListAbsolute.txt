@@ -32,3 +32,13 @@ C:\Users\Samsung\Documents\Work Experience\Accelorometer\src\USB Reader\obj\x86\
 C:\Users\Samsung\Documents\Work Experience\Accelorometer\src\USB Reader\obj\x86\Debug\USB_Reader.UI_Form.resources
 C:\Users\Samsung\Documents\Work Experience\Accelorometer\src\USB Reader\obj\x86\Debug\USB_Reader.Properties.Resources.resources
 C:\Users\Samsung\Documents\Work Experience\Accelorometer\src\USB Reader\obj\x86\Debug\USB ISS Compass.csproj.GenerateResource.Cache
+C:\Users\Samsung\Source\Repos\Work Experience Projects\USB_ISS_Data_Analyzer\USB Reader\bin\Debug\USB Reader.exe
+C:\Users\Samsung\Source\Repos\Work Experience Projects\USB_ISS_Data_Analyzer\USB Reader\bin\Debug\USB Reader.pdb
+C:\Users\Samsung\Source\Repos\Work Experience Projects\USB_ISS_Data_Analyzer\USB Reader\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\Samsung\Source\Repos\Work Experience Projects\USB_ISS_Data_Analyzer\USB Reader\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\Samsung\Source\Repos\Work Experience Projects\USB_ISS_Data_Analyzer\USB Reader\obj\x86\Debug\USB ISS Compass.csprojResolveAssemblyReference.cache
+C:\Users\Samsung\Source\Repos\Work Experience Projects\USB_ISS_Data_Analyzer\USB Reader\obj\x86\Debug\USB_Reader.UI_Form.resources
+C:\Users\Samsung\Source\Repos\Work Experience Projects\USB_ISS_Data_Analyzer\USB Reader\obj\x86\Debug\USB_Reader.Properties.Resources.resources
+C:\Users\Samsung\Source\Repos\Work Experience Projects\USB_ISS_Data_Analyzer\USB Reader\obj\x86\Debug\USB ISS Compass.csproj.GenerateResource.Cache
+C:\Users\Samsung\Source\Repos\Work Experience Projects\USB_ISS_Data_Analyzer\USB Reader\obj\x86\Debug\USB Reader.exe
+C:\Users\Samsung\Source\Repos\Work Experience Projects\USB_ISS_Data_Analyzer\USB Reader\obj\x86\Debug\USB Reader.pdb
