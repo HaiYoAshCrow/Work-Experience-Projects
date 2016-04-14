@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 /*****************************************************************************************************
- *  @author: Tuan                                                                      *
+ *  @author: Tuan Nguyen                                                                       *
  *  @description: A simple class to contain global access key values                                 *
- *  @last modified: 07/12/2012                                                                       *
+ *  @last modified: 14/04/2016                                                                       *
  *****************************************************************************************************/
 namespace ESRIPPTPointer
 {

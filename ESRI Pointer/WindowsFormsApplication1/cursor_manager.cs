@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 using Microsoft.Win32;
 
 /*****************************************************************************************************
- *  @author: Tuan                                                                  *
+ *  @author: Tuan Nguyen                                                                  *
  *  @description: This class handles the loading and restoration of custom mouse cursors             *
- *  @last modified: 06/12/2012                                                                       *
+ *  @last modified: 14/04/2016                                                                        *
  *****************************************************************************************************/
 
 namespace ESRIPPTPointer

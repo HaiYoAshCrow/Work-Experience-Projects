@@ -7,10 +7,6 @@ namespace ESRIPPTPointer
 {
     static class Program
     {
-        /*******************************************
-         * Description: Main entry point
-         * Parameters: Nil
-         ******************************************/
         [STAThread]
         static void Main()
         {

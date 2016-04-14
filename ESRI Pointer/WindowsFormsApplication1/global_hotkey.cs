@@ -5,9 +5,9 @@ using System.Text;
 using System.Runtime.InteropServices;
 using System.Windows.Forms;
 /*****************************************************************************************************
- *  @author: Tuan                                                                  *
+ *  @author: Tuan Nguyen                                                                   *
  *  @description: This class handles the loading and unloading of global hotkeys                     *
- *  @last modified: 06/12/2012                                                                       *
+ *  @last modified: 14/04/2016                                                                   *
  *****************************************************************************************************/
 
 namespace ESRIPPTPointer
