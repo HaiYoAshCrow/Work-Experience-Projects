@@ -1,0 +1,17 @@
+F:\USB-ISS-CMPS10 Data Viewer\src\USB_ISS_Data_Analyzer\bin\Debug\USB_ISS_Data_Analyzer.exe
+F:\USB-ISS-CMPS10 Data Viewer\src\USB_ISS_Data_Analyzer\bin\Debug\USB_ISS_Data_Analyzer.pdb
+F:\USB-ISS-CMPS10 Data Viewer\src\USB_ISS_Data_Analyzer\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\USB-ISS-CMPS10 Data Viewer\src\USB_ISS_Data_Analyzer\obj\x86\Debug\USB_ISS_Data_Analyzer.Analyzer_UI.resources
+F:\USB-ISS-CMPS10 Data Viewer\src\USB_ISS_Data_Analyzer\obj\x86\Debug\USB_ISS_Data_Analyzer.Properties.Resources.resources
+F:\USB-ISS-CMPS10 Data Viewer\src\USB_ISS_Data_Analyzer\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\USB-ISS-CMPS10 Data Viewer\src\USB_ISS_Data_Analyzer\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\USB-ISS-CMPS10 Data Viewer\src\USB_ISS_Data_Analyzer\obj\x86\Debug\USB_ISS_Data_Analyzer.exe
+F:\USB-ISS-CMPS10 Data Viewer\src\USB_ISS_Data_Analyzer\obj\x86\Debug\USB_ISS_Data_Analyzer.pdb
+C:\Users\Samsung\Documents\Work Experience\Accelorometer\src\USB_ISS_Data_Analyzer\bin\Debug\USB_ISS_Data_Analyzer.exe
+C:\Users\Samsung\Documents\Work Experience\Accelorometer\src\USB_ISS_Data_Analyzer\bin\Debug\USB_ISS_Data_Analyzer.pdb
+C:\Users\Samsung\Documents\Work Experience\Accelorometer\src\USB_ISS_Data_Analyzer\obj\x86\Debug\USB_ISS_Data_Analyzer.csprojResolveAssemblyReference.cache
+C:\Users\Samsung\Documents\Work Experience\Accelorometer\src\USB_ISS_Data_Analyzer\obj\x86\Debug\USB_ISS_Data_Analyzer.Analyzer_UI.resources
+C:\Users\Samsung\Documents\Work Experience\Accelorometer\src\USB_ISS_Data_Analyzer\obj\x86\Debug\USB_ISS_Data_Analyzer.Properties.Resources.resources
+C:\Users\Samsung\Documents\Work Experience\Accelorometer\src\USB_ISS_Data_Analyzer\obj\x86\Debug\USB_ISS_Data_Analyzer.csproj.GenerateResource.Cache
+C:\Users\Samsung\Documents\Work Experience\Accelorometer\src\USB_ISS_Data_Analyzer\obj\x86\Debug\USB_ISS_Data_Analyzer.exe
+C:\Users\Samsung\Documents\Work Experience\Accelorometer\src\USB_ISS_Data_Analyzer\obj\x86\Debug\USB_ISS_Data_Analyzer.pdb

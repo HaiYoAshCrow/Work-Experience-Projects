@@ -1,0 +1,34 @@
+C:\Users\hoangn\Desktop\USB Reader\USB Reader\USB Reader\bin\Debug\USB Reader.exe
+C:\Users\hoangn\Desktop\USB Reader\USB Reader\USB Reader\bin\Debug\USB Reader.pdb
+C:\Users\hoangn\Desktop\USB Reader\USB Reader\USB Reader\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\hoangn\Desktop\USB Reader\USB Reader\USB Reader\obj\x86\Debug\USB_Reader.UI_Form.resources
+C:\Users\hoangn\Desktop\USB Reader\USB Reader\USB Reader\obj\x86\Debug\USB_Reader.Properties.Resources.resources
+C:\Users\hoangn\Desktop\USB Reader\USB Reader\USB Reader\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\hoangn\Desktop\USB Reader\USB Reader\USB Reader\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\hoangn\Desktop\USB Reader\USB Reader\USB Reader\obj\x86\Debug\USB Reader.exe
+C:\Users\hoangn\Desktop\USB Reader\USB Reader\USB Reader\obj\x86\Debug\USB Reader.pdb
+F:\USB-ISS-CMPS10 Data Viewer\src\USB Reader\obj\x86\Debug\USB Reader.exe
+F:\USB-ISS-CMPS10 Data Viewer\src\USB Reader\obj\x86\Debug\USB Reader.pdb
+F:\USB-ISS-CMPS10 Data Viewer\src\USB Reader\bin\Debug\USB Reader.exe
+F:\USB-ISS-CMPS10 Data Viewer\src\USB Reader\bin\Debug\USB Reader.pdb
+F:\USB-ISS-CMPS10 Data Viewer\src\USB Reader\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\USB-ISS-CMPS10 Data Viewer\src\USB Reader\obj\x86\Debug\USB_Reader.UI_Form.resources
+F:\USB-ISS-CMPS10 Data Viewer\src\USB Reader\obj\x86\Debug\USB_Reader.Properties.Resources.resources
+F:\USB-ISS-CMPS10 Data Viewer\src\USB Reader\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\USB-ISS-CMPS10 Data Viewer\src\USB Reader\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\USB-ISS-CMPS10 Data Viewer\src\USB Reader\obj\x86\Debug\USB Reader.exe
+G:\USB-ISS-CMPS10 Data Viewer\src\USB Reader\obj\x86\Debug\USB Reader.pdb
+C:\Users\Eigens\Desktop\Projects\Accelorometer\src\USB Reader\obj\x86\Debug\USB Reader.exe
+C:\Users\Eigens\Desktop\Projects\Accelorometer\src\USB Reader\obj\x86\Debug\USB Reader.pdb
+E:\Projects\Work Experience\Accelorometer\src\USB Reader\obj\x86\Debug\USB Reader.exe
+E:\Projects\Work Experience\Accelorometer\src\USB Reader\obj\x86\Debug\USB Reader.pdb
+C:\Users\Samsung\Documents\Work Experience\Accelorometer\src\USB Reader\obj\x86\Debug\USB Reader.exe
+C:\Users\Samsung\Documents\Work Experience\Accelorometer\src\USB Reader\obj\x86\Debug\USB Reader.pdb
+C:\Users\Samsung\Documents\Work Experience\Accelorometer\src\USB Reader\bin\Debug\USB Reader.exe
+C:\Users\Samsung\Documents\Work Experience\Accelorometer\src\USB Reader\bin\Debug\USB Reader.pdb
+C:\Users\Samsung\Documents\Work Experience\Accelorometer\src\USB Reader\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\Samsung\Documents\Work Experience\Accelorometer\src\USB Reader\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\Samsung\Documents\Work Experience\Accelorometer\src\USB Reader\obj\x86\Debug\USB ISS Compass.csprojResolveAssemblyReference.cache
+C:\Users\Samsung\Documents\Work Experience\Accelorometer\src\USB Reader\obj\x86\Debug\USB_Reader.UI_Form.resources
+C:\Users\Samsung\Documents\Work Experience\Accelorometer\src\USB Reader\obj\x86\Debug\USB_Reader.Properties.Resources.resources
+C:\Users\Samsung\Documents\Work Experience\Accelorometer\src\USB Reader\obj\x86\Debug\USB ISS Compass.csproj.GenerateResource.Cache

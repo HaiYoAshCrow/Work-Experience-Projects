@@ -1,0 +1,9 @@
+C:\Users\hoangn\Desktop\USB Reader\USB Reader\USB Reader\bin\Release\USB Reader.exe
+C:\Users\hoangn\Desktop\USB Reader\USB Reader\USB Reader\bin\Release\USB Reader.pdb
+C:\Users\hoangn\Desktop\USB Reader\USB Reader\USB Reader\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\hoangn\Desktop\USB Reader\USB Reader\USB Reader\obj\x86\Release\USB_Reader.USB_ISS_Interface.resources
+C:\Users\hoangn\Desktop\USB Reader\USB Reader\USB Reader\obj\x86\Release\USB_Reader.Properties.Resources.resources
+C:\Users\hoangn\Desktop\USB Reader\USB Reader\USB Reader\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\hoangn\Desktop\USB Reader\USB Reader\USB Reader\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\hoangn\Desktop\USB Reader\USB Reader\USB Reader\obj\x86\Release\USB Reader.exe
+C:\Users\hoangn\Desktop\USB Reader\USB Reader\USB Reader\obj\x86\Release\USB Reader.pdb
