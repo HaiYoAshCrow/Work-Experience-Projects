@@ -1,0 +1,45 @@
+﻿WHAT CURRENTLY WORKS AS OF 21/12/2012:
+----------------------
+-	COM changer
+-	Data Retrieval
+-	Logging
+-	Basic data/program management
+-	Query Listing
+
+BUGS AS OF 20/12/2012:
+----------------------
+-	Unexpected Monitor unhandled exception errors when updating [FIXED FOR NOW]
+-	Multiple query returns aren't formatted properly
+
+GENERAL TODO:
+-----------------------
+-	Normalize output
+-	Implement Blind Node viewer only with filter
+-	UI user control - making sure they don't break the program through exploits
+-	Implement full custom_page functionality [DONE]
+-	Hex Data Interperatation and output formatting...?
+
+--------------------------------------------------------------------------------------------
+WHAT CURRENTLY WORKS AS OF 18/12/2012:
+----------------------
+-	COM changer
+-	Data Retrieval
+-	Logging
+-	Basic data/program management
+
+BUGS AS OF 18/12/2012:
+----------------------
+-	Recording will error when COM1 is set and then COM 3 is selected. [FIXED]
+-	Data is not being interperated correctly on the data viewer. A solution can be found here for
+	future implementation: [FIXED]
+	http://msmvps.com/blogs/coad/archive/2005/03/23/SerialPort-_2800_RS_2D00_232-Serial-COM-Port_2900_-in-C_2300_-.NET.aspx
+
+GENERAL TODO:
+-----------------------
+-	Add in more flexibility that will allow users to customize and modify program settings:
+	-	Decide whether they want to save to same file or have time-incremements [PARTIALLY-DONE]: Time increments
+	-	Custom bit string editor for data retrieval (Default will be XY-RSSI) [DONE]
+	-	Custom port settings [DONE]
+	-	More user friendly through: 
+		-	settings file
+		-	Logs folder/Custom user defined directory to where they want logs stored [EXPUNGED due to time constraints]

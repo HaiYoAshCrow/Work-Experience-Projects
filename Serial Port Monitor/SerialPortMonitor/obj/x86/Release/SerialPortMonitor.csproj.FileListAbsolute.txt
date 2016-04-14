@@ -1,0 +1,9 @@
+C:\Documents and Settings\joesri023\my documents\visual studio 2010\Projects\SerialPortMonitor\SerialPortMonitor\bin\Release\SerialPortMonitor.exe
+C:\Documents and Settings\joesri023\my documents\visual studio 2010\Projects\SerialPortMonitor\SerialPortMonitor\bin\Release\SerialPortMonitor.pdb
+C:\Documents and Settings\joesri023\my documents\visual studio 2010\Projects\SerialPortMonitor\SerialPortMonitor\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\joesri023\my documents\visual studio 2010\Projects\SerialPortMonitor\SerialPortMonitor\obj\x86\Release\SerialPortMonitor.logger_form.resources
+C:\Documents and Settings\joesri023\my documents\visual studio 2010\Projects\SerialPortMonitor\SerialPortMonitor\obj\x86\Release\SerialPortMonitor.Properties.Resources.resources
+C:\Documents and Settings\joesri023\my documents\visual studio 2010\Projects\SerialPortMonitor\SerialPortMonitor\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\joesri023\my documents\visual studio 2010\Projects\SerialPortMonitor\SerialPortMonitor\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\joesri023\my documents\visual studio 2010\Projects\SerialPortMonitor\SerialPortMonitor\obj\x86\Release\SerialPortMonitor.exe
+C:\Documents and Settings\joesri023\my documents\visual studio 2010\Projects\SerialPortMonitor\SerialPortMonitor\obj\x86\Release\SerialPortMonitor.pdb
