@@ -1,0 +1,4 @@
+Key Combos
+Increase Size: Crtl and - or +
+Toggle Cursor: Crtl and Insert
+Cycle through cursors: Ctrl-N or Ctrl-B

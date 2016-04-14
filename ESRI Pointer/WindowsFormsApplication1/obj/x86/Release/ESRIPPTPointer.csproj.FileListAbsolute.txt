@@ -1,0 +1,10 @@
+C:\Users\Eigens\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\ESRIPPTPointer.exe
+C:\Users\Eigens\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\ESRIPPTPointer.pdb
+C:\Users\Eigens\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Eigens\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\ESRIPPTPointer.ESRIPPTForm.resources
+C:\Users\Eigens\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\ESRIPPTPointer.Hotkey_selector_form.resources
+C:\Users\Eigens\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\ESRIPPTPointer.Properties.Resources.resources
+C:\Users\Eigens\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Eigens\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Eigens\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\ESRIPPTPointer.exe
+C:\Users\Eigens\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\ESRIPPTPointer.pdb
